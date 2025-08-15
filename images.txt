@@ -1,2 +1,1 @@
-nacos/nacos-server:latest
-
+spring-cloud-gateway:3.1.0
