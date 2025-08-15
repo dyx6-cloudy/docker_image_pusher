@@ -1,1 +1,2 @@
-openeuler/spring-cloud:latest
+nacos/nacos-server:latest
+
